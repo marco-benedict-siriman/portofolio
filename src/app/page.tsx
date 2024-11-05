@@ -18,7 +18,7 @@ export default function Home() {
       </div>
       <div>
         <p>Tech Stack</p>
-        <p>Tools and Frameworks I've used</p>
+        <p>Tools and Frameworks I&apos;ve used</p>
       </div>
     </div>
   );
